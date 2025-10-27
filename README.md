@@ -60,7 +60,7 @@ This project aims to:
 ```text
 ├── app_analysis.ipynb
 ├── docs/
-│   └── app_analysis.html
+│   └── index.html
 ├── data/
 │   ├── AppleStore.csv
 │   └── googleplaystore.csv
