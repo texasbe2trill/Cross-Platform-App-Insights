@@ -57,6 +57,7 @@ This project aims to:
 
 ## Repository Structure
 
+```text
 ├── app_analysis.ipynb
 ├── docs/
 │   └── app_analysis.html
@@ -64,3 +65,4 @@ This project aims to:
 │   ├── AppleStore.csv
 │   └── googleplaystore.csv
 └── README.md
+```
